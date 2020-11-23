@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">XiXiSdk</string>
+    <string name="error_network">网络错误，请稍候再试</string>
+    <string name="name_devices">西西大管家</string>
+    <string name="press_direct_floor_fisrt">西西科技提示您,%s层按键已按下</string>
+    <string name="press_direct_floors">西西科技提示您,%s层等按键已按下</string>
+    <string name="all_allow_floors">西西科技提示您,电梯按键已激活</string>
+    <string name="up_direction">上行中</string>
+    <string name="down_direction">下行中</string>
+</resources>
